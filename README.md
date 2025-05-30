@@ -15,4 +15,4 @@ The MERN ThinkBoard is a basic note taking app.
 - **Database**: MongoDB
 - **Upstash**: For Rate Limiting
 
-[Live Demo](https://mern-basic-crud.onrender.com)
+[Live Demo](https://mern-thinkboard-crud.onrender.com)
