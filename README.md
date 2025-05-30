@@ -14,3 +14,5 @@ The MERN ThinkBoard is a basic note taking app.
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Upstash**: For Rate Limiting
+
+[Live Demo](https://mern-basic-crud.onrender.com)
